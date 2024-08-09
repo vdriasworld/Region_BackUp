@@ -1,6 +1,6 @@
 {
 	"id": "region_backup",
-	"version": "1.7.0",
+	"version": "null",
 	"name": "Region BackUp",
 	"description": {
 		"en_us": "An MCDR plugin that backs up or backs up files on a regional basis",
@@ -9,11 +9,11 @@
 	"author": [
 		"FRUITS_CANDY","Bexerlmao","mc_doge_","SeeU_SAMA"
 	],
-	"link": "https://github.com/GHS-Official/Region-BackUp",
+	"link": "https://github.com/vdriasworld/Region_BackUp/",
 	"dependencies": {
 		"mcdreforged": ">=2.6.0"
 	},
-	"archive_name": "Region-BackUp-v{version}",
+	"archive_name": "Region-BackUp",
 	"resources": [
 		"LICENSE",
 		"lang"
