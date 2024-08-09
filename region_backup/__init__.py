@@ -508,6 +508,7 @@ def on_server_stop(server: PluginServerInterface, server_return_code: int):
 
             back_slot = None
 
+            time.sleep(3)
             server.start()
 
     except Exception as e:

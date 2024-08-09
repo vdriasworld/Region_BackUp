@@ -88,7 +88,7 @@ region_backup:
                 
        abort: §a回档已取消
          
-       countdown: "[RBU] §c服务器将于10秒后关闭并进行区域回档!"
+       countdown: "[RBU] §c服务器将于10秒后关闭并进行§6区域回档§c!"
         
        count: "[RBU]§a服务器还有{}秒关闭，输入#sc=!!rb abort<>st=终止回档#§c!!rb abort§f来停止回档到槽位§6{}"
         
